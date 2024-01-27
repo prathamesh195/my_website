@@ -11,7 +11,7 @@ function App() {
             Welcome to my website
       </div>
     <div className='bg-blue-100 flex items-center'>
-      Prathamesh Sawant 
+      Prathamesh Sawant From Bicholim
     </div>
     <div></div>
 
